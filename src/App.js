@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Sample Project
+          This is Jenkins Project
         </p>
       </header>
     </div>
